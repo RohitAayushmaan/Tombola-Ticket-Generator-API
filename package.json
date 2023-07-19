@@ -5,6 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -23,6 +24,7 @@
     "express": "^4.18.2",
     "jsonwebtoken": "^9.0.1",
     "mongodb": "^5.7.0",
+    "mongoose": "^7.4.0",
     "mysql": "^2.18.1",
     "mysql2": "^3.5.2"
   },
