@@ -5,10 +5,10 @@
 ### To run a Node.js API project with the given specifications, you can follow these steps:
 
 1. Clone the Git repository:
-   - Copy the repository's URL: https://github.com/RohitAayushmaan/Unibit-Task-Tambula.git
+   - Copy the repository's URL: https://github.com/RohitAayushmaan/Tombola-Ticket-Generator-API.git
    - Open your terminal or command prompt.
    - Navigate to the directory where you want to clone the project.
-   - Run the command: git clone https://github.com/RohitAayushmaan/Unibit-Task-Tambula.git
+   - Run the command: git clone https://github.com/RohitAayushmaan/Tombola-Ticket-Generator-API.git
      
 2. Install Dependencies:
     - Navigate into the cloned project directory using cd <directory_name>
