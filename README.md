@@ -1,4 +1,4 @@
-# Unibit-Task-Tambula
+# Tombola-Ticket-Generator-API
 
 ##### Develop a Login API and Tambula ticket creation API to generate unique ticket IDs for a variable number of tickets. Additionally, create a Tambula ticket fetch API to retrieve all ticket lists linked to their respective IDs with pagination support.
 
