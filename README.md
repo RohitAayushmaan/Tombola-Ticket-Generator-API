@@ -1,6 +1,8 @@
 # Unibit-Task-Tambula
 
-## To run a Node.js API project with the given specifications, you can follow these steps:
+##### Develop a Login API and Tambula ticket creation API to generate unique ticket IDs for a variable number of tickets. Additionally, create a Tambula ticket fetch API to retrieve all ticket lists linked to their respective IDs with pagination support.
+
+### To run a Node.js API project with the given specifications, you can follow these steps:
 
 1. Clone the Git repository:
    - Copy the repository's URL: https://github.com/RohitAayushmaan/Unibit-Task-Tambula.git
